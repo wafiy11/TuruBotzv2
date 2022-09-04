@@ -62,7 +62,7 @@ global.psaweria = 'gaada'
 global.nomorbot = '601172381193'
 global.nomorown = '601172381193'
 global.namebot = 'TuruBotz🛌'
-global.nameown = 'TuruBotz🛌'
+global.nameown = '𝖄𝖆𝖒𝖎𝕿𝖚𝖗𝖚'
 
 
 /*============== STAFF ==============*/
@@ -117,11 +117,11 @@ global.APIKeys = { // APIKey Here
 //GANTI SETERAH MU
 global.wm = '© TuruBotz🛌' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘TuruBotz🛌˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺Sasyi By Putbotz'
+global.wm3 = '⫹⫺𝖄𝖆𝖒𝖎𝕿𝖚𝖗𝖚 By Putbotz'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘TuruBotz🛌˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.author = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘TuruBotz🛌˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.author = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝖄𝖆𝖒𝖎𝕿𝖚𝖗𝖚˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 
 
 /*============== LOGO ==============*/
