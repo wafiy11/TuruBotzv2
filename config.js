@@ -43,32 +43,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     
 /*============== SOCIAL ==============*/
 
-// Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/whooputt'
-global.sgh = 'https://github.com/Putbotz'
-global.sgc = 'https://chat.whatsapp.com/L5A62ACjj9IDiIZ962HsYp'
-global.sdc = " "
+// kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
+global.sig = 'https://instagram.com/shamimsulhan'
+global.sgh = 'https://github.com/Mymszz'
+global.sgc = 'https://chat.whatsapp.com/EawZW6vp8gwG4uGt0r4Awa'
+global.sdc = 'https://discord.gg/WEJQjugTY7'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085334930628'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085334930628'
-global.ppulsa2 = '081336990781'
-global.psaweria = '-'
+global.pdana = 'gaada'
+global.povo = 'gaada'
+global.pgopay = 'gaada'
+global.ppulsa = '60147366955 maxis'
+global.ppulsa2 = '60147366955 maxis'
+global.psaweria = 'gaada'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '60147366955'
-global.nomorown = '60147366955'
-global.namebot = '𝕻𝖚𝖙 𝕯𝖊𝖛'
-global.nameown = '𝕻𝖚𝖙'
+global.nomorbot = '601172381193'
+global.nomorown = '601172381193'
+global.namebot = 'TuruBotz🛌'
+global.nameown = 'TuruBotz🛌'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['60147366955'],
-  ['60147366955', '𝕻𝖚𝖙 𝕯𝖊𝖛', true]
+  ['601172381193'],
+  ['601172381193'],
+  ['60147366955', 'TuruBotz🛌 !', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -113,16 +114,18 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝕻𝖚𝖙 𝕯𝖊𝖛 あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝕻𝖚𝖙 𝕯𝖊𝖛˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝕻𝖚𝖙 𝕯𝖊𝖛'
+//GANTI SETERAH MU
+global.wm = '© TuruBotz🛌' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘TuruBotz🛌˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺Sasyi By Putbotz'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '🌱 ┊ 𝕻𝖚𝖙 𝕯𝖊𝖛 Whatsapp ʙᴏᴛ'
-global.author = global.wm
+global.titlebot = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘TuruBotz🛌˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.author = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘TuruBotz🛌˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 
 
 /*============== LOGO ==============*/
+// INI JUGA GANTI SETERAH MU
 global.thumb = 'https://telegra.ph/file/c73f47b440241b66cb9d3.jpg' //Main Thumbnail
 global.thumb2 = 'https://telegra.ph/file/c73f47b440241b66cb9d3.jpg'
 global.thumbbc = 'https://telegra.ph/file/d389f4acafac741f6592c.jpg' //For broadcast
@@ -171,8 +174,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = '.'
-global.stickauth = `☂︎\n𝕻\n𝖚\n𝖙\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickpack = 'yahaha wahyu'
+global.stickauth = `putganteng yagesya☂`
 
 global.multiplier = 999 // The higher, The harder levelup
 
