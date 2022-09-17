@@ -54,22 +54,22 @@ global.snh = 'https://nhentai.net/g/365296/'
 global.pdana = 'gaada'
 global.povo = 'gaada'
 global.pgopay = 'gaada'
-global.ppulsa = '60179317596 maxis'
-global.ppulsa2 = '60179317596 maxis'
+global.ppulsa = '601112989392 maxis'
+global.ppulsa2 = '601112989392 maxis'
 global.psaweria = 'gaada'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '+601111800533'
-global.nomorown = '60179317596'
+global.nomorbot = '601111800533'
+global.nomorown = '601112989392'
 global.namebot = 'DasBotz🗿'
 global.nameown = 'BOTDAS'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['60179317596'],
-  ['60179317596'],
-  ['60179317596', 'DasBotz🗿 !', true]
+  ['601112989392'],
+  ['601112989392'],
+  ['601112989392', 'DasBotz🗿 !', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -117,7 +117,7 @@ global.APIKeys = { // APIKey Here
 //GANTI SETERAH MU
 global.wm = '© DasBotz🗿' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘DasBotz🗿˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺𝖄𝖆𝖒𝖎𝕿𝖚𝖗𝖚 By Dasbotz'
+global.wm3 = '⫹⫺DASBOT🗿 By Dasbotz'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘DasBotz🗿˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
